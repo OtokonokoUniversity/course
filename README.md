@@ -29,12 +29,14 @@
 
 - 🏳️‍⚧️ [性别烦躁指南](../../../../GenderDysphoria/GenderDysphoria.fyi)
   - 记录性别烦躁是如何表现的，并提供性别转变的一些资料，以便为那些正在质疑探索中的人、那些在跨性别道路上的人和单纯想成为盟友的人提供帮助。
-- 🌸 [MtF-Wiki](../../../../mtf-wiki/MtF-Wiki)
+- 🌸 [MtF-Wiki](../../../../project-trans/MtF-Wiki)
   - MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到各种药物知识、医疗资源、女性常识，以及其他等等。
   - MtF（Male-to-Female）跨性别女性 指出生时指定性别是男性的女性。
-- 🏫 [RLE-wiki](../../../../mtf-wiki/RLE-wiki)
+- 🏫 [RLE-wiki](../../../../project-trans/RLE-wiki)
   - 这里会给跨性别者们提供一份 RLE 的一份指南。本项目包括且不仅限于校园指南，后期会包括其他 RLE 指导。
   - 实际生活体验（Real-life experience）指跨性别者全天候地按照其所认同的性别角色来生活。
+- 🏫 [2345.LGBT](https://2345.lgbt/zh-cn/)
+  - 跨性别与 LGBT 相关资源导航站。
 - 💉 [Shizu's HRT Guide](../../../../BBleae/hrt-book)
   - MtF HRT 资料 by shizu，这是一份关于跨性别激素治疗(HRT)的医学资料。
 - 🧭 [MtF指南针](https://mtf.party/)
